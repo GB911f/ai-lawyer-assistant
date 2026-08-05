@@ -74,13 +74,6 @@ docker compose up -d postgres
 DATABASE_URL=postgresql+asyncpg://jarvis:change-me@127.0.0.1:5432/jarvis
 ```
 
-## Авторы публичной реконструкции
-
-- Participant A — Research & Platform.
-- Participant B — Documents & Product.
-
-Карта владения файлами находится в `docs/ownership/`.
-
 ## Ограничения
 
 - Корпус и документы в `data/demo` полностью синтетические.
